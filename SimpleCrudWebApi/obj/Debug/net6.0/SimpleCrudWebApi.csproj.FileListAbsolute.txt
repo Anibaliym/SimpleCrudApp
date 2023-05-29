@@ -1,0 +1,68 @@
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.exe
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.deps.json
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.runtimeconfig.json
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.pdb
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.csproj.AssemblyReference.cache
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.AssemblyInfoInputs.cache
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.AssemblyInfo.cs
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\scopedcss\bundle\SimpleCrudWebApi.styles.css
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.csproj.CopyComplete
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\refint\SimpleCrudWebApi.dll
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.pdb
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.genruntimeconfig.cache
+C:\Users\Anibal Yañez\Desktop\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\ref\SimpleCrudWebApi.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.csproj.AssemblyReference.cache
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.AssemblyInfoInputs.cache
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.AssemblyInfo.cs
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.csproj.CoreCompileInputs.cache
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\refint\SimpleCrudWebApi.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.pdb
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\appsettings.json
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.exe
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.deps.json
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.runtimeconfig.json
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\SimpleCrudWebApi.pdb
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Dapper.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\scopedcss\bundle\SimpleCrudWebApi.styles.css
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.csproj.CopyComplete
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\SimpleCrudWebApi.genruntimeconfig.cache
+C:\Administrador\Anibal\Descargas\SimpleCrudApp\SimpleCrudWebApi\SimpleCrudWebApi\obj\Debug\net6.0\ref\SimpleCrudWebApi.dll
